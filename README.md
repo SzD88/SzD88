@@ -11,7 +11,16 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img >
  <img align="left" alt="angular" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><img >
 
- oraz wszystkie spotkane/stosowane przsezemnie technologie:
+ poznane narzędzia:
+  <img align="left" alt="angular" src="  " /><img >
+  <img align="left" alt="angular" src="  " /><img >
+  <img align="left" alt="angular" src="  " /><img >
+  <img align="left" alt="angular" src="  " /><img >
+  <img align="left" alt="angular" src="  " /><img >
+  <img align="left" alt="angular" src="  " /><img >
+  <img align="left" alt="angular" src="  " /><img >
+  <img align="left" alt="angular" src="  " /><img >
+  <img align="left" alt="angular" src="  " /><img >
  entity framework, postman, ....
  
  Chce zaaprezentować swoje 2 repozytoria. 
