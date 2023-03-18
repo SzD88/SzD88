@@ -8,9 +8,9 @@ My favorite technologies in order of most used:
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img >
  <img align="left" alt="angular" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><img >
  
- 
+ <br>
 I am also familiar with:
-
+<br>
 
 <img align="left" alt="angular" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /><img >
 <img align="bottom"  alt="angular" src="https://img.shields.io/badge/%20-SOLID-black?style=for-the-badge&logo=SL&logoColor=white" /><img >
