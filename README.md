@@ -4,7 +4,7 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
  Ciagle staram sie rozawijac w technologiach backend i frontend.
  Ponizej przedstawiam technologie ktore mialem okazje poznac w kolejnosci od tych z ktorymi spedzilem najwiecej czasu:
  ASP . net / c# , angular, sqlms db 
- <br>[<img align="left" alt="angular" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" />]
+ <br>[<img align="left" alt="angular" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white " />]
  
  https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
  oraz wszystkie spotkane/stosowane przsezemnie technologie:
