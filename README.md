@@ -1,4 +1,4 @@
-### Welcome on my GitHub ?
+### Welcome on my GitHub
 I am an aspiring developer from Poland, working on some frontend and backend project using asp.net and Angular.
  
 I am constantly trying improve my backend and frontend skills.
