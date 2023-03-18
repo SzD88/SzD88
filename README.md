@@ -14,7 +14,7 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
  poznane narzędzia:
  
   <img align="left" alt="angular" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /><img >
-   <img align="left" alt="angular" src="https://img.shields.io/badge/%20-entity%20framework-blueviolet  " /><img >
+   <img align="center" alt="angular" src="https://img.shields.io/badge/%20-entity%20framework-blueviolet  " /><img >
     <img align="left" alt="angular" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img >
   mssql server manager
  
