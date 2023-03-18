@@ -16,8 +16,7 @@ I am also familiar with:
 <img align="bottom"  alt="angular" src="https://img.shields.io/badge/%20-SOLID-black?style=for-the-badge&logo=SL&logoColor=white" /><img >
 <img align="left" alt="angular" src="https://img.shields.io/badge/%20-entity%20framework-blueviolet?style=for-the-badge&logo=EF&logoColor=white" /><img >
 <img align="left" alt="angular" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img >
-<img align="left" alt="angular" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white
-" /><img >
+<img align="left" alt="angular" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /><img >
 
  I wish to present two repositories.
  The first solution is planned to be deployed for use. The solution supports device reservations in the machine park of a small and medium company. The system offers authorized accounts for users with different roles who can make reservations depending on their permissions.
