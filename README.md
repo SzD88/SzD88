@@ -2,17 +2,14 @@
 I am an aspiring developer from Poland ? Working on multiple frontend and backend project using React and Nodejs
  
  Ciagle staram sie rozawijac w technologiach backend i frontend.
- Ponizej przedstawiam technologie ktore mialem okazje poznac w kolejnosci od tych z ktorymi spedzilem najwiecej czasu:
- ASP . net / c# , angular, sqlms db 
  
  
+My favorite technologies in order of most used:
   <img align="left" alt="csharp" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img>
    <img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img>
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img >
  <img align="left" alt="angular" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><img >
-
- poznane narzędzia:
- 
+familiar with:
 <img align="left" alt="angular" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /><img >
 <img align="bottom"  alt="angular" src="https://img.shields.io/badge/%20-SOLID-black?style=for-the-badge&logo=SL&logoColor=white" /><img >
 <img align="left" alt="angular" src="https://img.shields.io/badge/%20-entity%20framework-blueviolet?style=for-the-badge&logo=EF&logoColor=white" /><img >
