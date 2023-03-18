@@ -25,7 +25,8 @@ I am also familiar with:
  
  This is a solution that has not been implemented yet and shows how I imagine a well-planned and architecturally solved backend solution. There was always time to refactor the code and keep things in order. I am currently working on implementing proper automated tests for this application.
  
- <img align="left" alt="angular" src="https://img.shields.io/badge/-1.%20Tasks%20Manager-white?style=for-the-badge" /><img >
+ <img align="left" alt="angular" src="https://img.shields.io/badge/-2.%20Tasks%20Manager-white?style=for-the-badge" /><img >
+ 
  The second solution is a live living application, which I implemented for use in a small company. It is an application for organizing working time over several weeks with a convenient interface available to users. The app is calendar based and allows managing tasks for employers and showing important information.
  
  This application was introduced after recognizing the need and made on the basis of a previously owned repository.
