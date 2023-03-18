@@ -10,11 +10,11 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
  Chce zaaprezentować swoje 2 repozytoria. 
  Pierwsze jest moim repozytorium planowanym do wdrozenia do uzytku, obslugujace rezerwowanie maszyn w parku maszynowym malej/sredniej firmy. 
  
- Jest to rozwiazanie nei wprowadzone do uzytku i pokazujace jak wyobrazam sobie dobrze zaplanowane i rozwiazane architektonicznie rozwiazanie backendowe. Tutaj zawse byl czs na refactor i utrzymanie porzadku. Zapraszam do repozytoirm.
+ Jest to rozwiazanie nei wprowadzone do uzytku i pokazujace jak wyobrazam sobie dobrze zaplanowane i rozwiazane architektonicznie rozwiazanie backendowe. Tutaj zawse byl czs na refactor i utrzymanie porzadku. Zapraszam do repozytoirm. Obecnie pracuje nad wprowadzaniem poprawnych testow automatycznych dla tej aplikacji.
  
  Drugie rozwiazanie ktore chce zaprezentowac jest to obecnie live living application, ktora wdrozylem w malej fimie. Jest to aplikacja do organizacji czaasu pracy w skali tygodnia/kilku tygodni. Jest to oparta na kalendarzu aplikacjia for managing tasks for employers and showing important infpormations. 
  
- Ta aplikacja była wprowadzona po rozpoznaniu potrzeby i wykonana na bazie wczesniej posiadanego repozytorium. Dołozono user interface i wdrozono aplikacje do prezentacji a pozniej testow. Aplikacja nigdy nie miala czasu zostac zrefactorowana poniewaz musiala czym rpedzej udowodnic swoja wartosc uzytkowa aby móc utrzymac jej funkcjonowanie 
+ Ta aplikacja była wprowadzona po rozpoznaniu potrzeby i wykonana na bazie wczesniej posiadanego repozytorium. Dołozono user interface i wdrozono aplikacje do prezentacji a pozniej testow. Aplikacja nigdy nie miala czasu zostac zrefactorowana poniewaz musiala czym rpedzej udowodnic swoja wartosc uzytkowa aby móc utrzymac jej funkcjonowanie.
 
 
 <br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)[<img align="left" alt="twitter" 
