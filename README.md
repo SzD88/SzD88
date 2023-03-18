@@ -9,8 +9,8 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
   <img align="left" alt="csharp" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /><img>
    <img align="left" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img>
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img >
- 
- 
+ <img align="left" alt="angular" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><img >
+
  oraz wszystkie spotkane/stosowane przsezemnie technologie:
  entity framework, postman, ....
  
