@@ -21,7 +21,8 @@ I am also familiar with:
  
  The first solution is planned to be deployed for use. The solution supports device reservations in the machine park of a small and medium company. The system offers authorized accounts for users with different roles who can make reservations depending on their permissions.
  
- Jest to rozwiazanie nei wprowadzone do uzytku i pokazujace jak wyobrazam sobie dobrze zaplanowane i rozwiazane architektonicznie rozwiazanie backendowe. Tutaj zawse byl czs na refactor i utrzymanie porzadku. Zapraszam do repozytoirm. Obecnie pracuje nad wprowadzaniem poprawnych testow automatycznych dla tej aplikacji.
+ This is a solution that has not been implemented yet and shows how I imagine a well-planned and architecturally solved backend solution. There was always time to refactor the code and keep things in order. I am currently working on implementing proper automated tests for this application.
+ 
  
  Drugie rozwiazanie ktore chce zaprezentowac jest to obecnie live living application, ktora wdrozylem w malej fimie. Jest to aplikacja do organizacji czaasu pracy w skali tygodnia/kilku tygodni. Jest to oparta na kalendarzu aplikacjia for managing tasks for employers and showing important infpormations. 
  
