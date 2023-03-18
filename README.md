@@ -1,8 +1,7 @@
 ### Welcome on my GitHub ?
-I am an aspiring developer from Poland ? Working on multiple frontend and backend project using React and Nodejs
+I am an aspiring developer from Poland, working on some frontend and backend project using asp.net and Angular.
  
- Ciagle staram sie rozawijac w technologiach backend i frontend.
- 
+I am constantly trying improve my backend and frontend skills.
  
 My favorite technologies in order of most used:
 
