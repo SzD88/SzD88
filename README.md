@@ -17,10 +17,9 @@ I am also familiar with:
 <img align="left" alt="angular" src="https://img.shields.io/badge/%20-entity%20framework-blueviolet?style=for-the-badge&logo=EF&logoColor=white" /><img >
 <img align="left" alt="angular" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img >
 
+ I wish to present two repositories.
  
- 
- Chce zaaprezentować swoje 2 repozytoria. 
- Pierwsze jest moim repozytorium planowanym do wdrozenia do uzytku, obslugujace rezerwowanie maszyn w parku maszynowym malej/sredniej firmy. 
+ The first solution is planned to be deployed for use. The solution supports device reservations in the machine park of a small and medium company. The system offers authorized accounts for users with different roles who can make reservations depending on their permissions.
  
  Jest to rozwiazanie nei wprowadzone do uzytku i pokazujace jak wyobrazam sobie dobrze zaplanowane i rozwiazane architektonicznie rozwiazanie backendowe. Tutaj zawse byl czs na refactor i utrzymanie porzadku. Zapraszam do repozytoirm. Obecnie pracuje nad wprowadzaniem poprawnych testow automatycznych dla tej aplikacji.
  
