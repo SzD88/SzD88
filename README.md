@@ -18,13 +18,12 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
     <img align="left" alt="angular" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img >
   mssql server manager
  
+  <img align="left" alt="angular" src="https://img.shields.io/badge/%20-SOLID-black" /><img >
   <img align="left" alt="angular" src="  " /><img >
   <img align="left" alt="angular" src="  " /><img >
   <img align="left" alt="angular" src="  " /><img >
-  <img align="left" alt="angular" src="  " /><img >
-  <img align="left" alt="angular" src="  " /><img >
-  <img align="left" alt="angular" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><img >
- entity framework, postman, ....
+  <img align="left" alt="angular" src="  " /><img > 
+ 
  
  Chce zaaprezentować swoje 2 repozytoria. 
  Pierwsze jest moim repozytorium planowanym do wdrozenia do uzytku, obslugujace rezerwowanie maszyn w parku maszynowym malej/sredniej firmy. 
@@ -37,7 +36,7 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
 
 ## Connect with me
 <br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.google.com) 
-
+<img align="left" alt="angular" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><img >
  
 ## Expertise
  
