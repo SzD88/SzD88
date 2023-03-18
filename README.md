@@ -12,16 +12,18 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
  <img align="left" alt="angular" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><img >
 
  poznane narzędzia:
-  <img align="left" alt="angular" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img >
+ 
   <img align="left" alt="angular" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /><img >
+   <img align="left" alt="angular" src="https://img.shields.io/badge/%20-entity%20framework-blueviolet  " /><img >
+    <img align="left" alt="angular" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img >
   mssql server manager
-  <img align="left" alt="angular" src="https://img.shields.io/badge/%20-entity%20framework-blueviolet  " /><img >
+ 
   <img align="left" alt="angular" src="  " /><img >
   <img align="left" alt="angular" src="  " /><img >
   <img align="left" alt="angular" src="  " /><img >
   <img align="left" alt="angular" src="  " /><img >
   <img align="left" alt="angular" src="  " /><img >
-  <img align="left" alt="angular" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><img >
+  <img align="left" alt="angular" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><img >
  entity framework, postman, ....
  
  Chce zaaprezentować swoje 2 repozytoria. 
