@@ -1,7 +1,7 @@
 ### Welcome on my GitHub
-I am an aspiring developer from Poland, working on some frontend and backend project using asp.net and Angular.
+I am a aspiring programmer from Poland, working on several frontend and backend projects using ASP.NET and Angular.
  
-I am constantly trying improve my backend and frontend skills.
+I am constantly trying to improve my backend and frontend skills.
  
 My favorite technologies in order of most used:
 
