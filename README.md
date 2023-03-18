@@ -7,7 +7,7 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
  
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img >
  
- <img align="left" alt="csharp" src="[https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)" /><img  >
+ <img align="left" alt="csharp" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img  >
  
  
  oraz wszystkie spotkane/stosowane przsezemnie technologie:
