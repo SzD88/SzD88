@@ -23,8 +23,9 @@ I am also familiar with:
  
  The second solution is a live living application, which I implemented for use in a small company. It is an application for organizing working time over several weeks with a convenient interface available to users. The app is calendar based and allows managing tasks for employers and showing important information.
  
- Ta aplikacja była wprowadzona po rozpoznaniu potrzeby i wykonana na bazie wczesniej posiadanego repozytorium. Dołozono user interface i wdrozono aplikacje do prezentacji a pozniej testow. Aplikacja nigdy nie miala czasu zostac zrefactorowana poniewaz musiala czym rpedzej udowodnic swoja wartosc uzytkowa aby móc utrzymac jej funkcjonowanie.
+ This application was introduced after recognizing the need and made on the basis of a previously owned repository.
+Gradually, the user interface was implemented in order to quickly start the application and its tests, to later build up its functionality. The application never had time to be refactored because it needed to prove its usefulness as soon as possible in order to keep it functioning.
 
 ## Contact with me
 <img align="left" alt="angular" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><img >
-<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]szymon.dudek.88@gmail.com 
+ [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]szymon.dudek.88@gmail.com 
