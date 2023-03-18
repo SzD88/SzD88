@@ -16,7 +16,8 @@ I am an aspiring developer from Poland ? Working on multiple frontend and backen
  
  Ta aplikacja była wprowadzona po rozpoznaniu potrzeby i wykonana na bazie wczesniej posiadanego repozytorium. Dołozono user interface i wdrozono aplikacje do prezentacji a pozniej testow. Aplikacja nigdy nie miala czasu zostac zrefactorowana poniewaz musiala czym rpedzej udowodnic swoja wartosc uzytkowa aby móc utrzymac jej funkcjonowanie.
 
-<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.google.com) ]
+## Connect with me
+<br>[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.google.com) ]
 
 
 <br>## Expertise
