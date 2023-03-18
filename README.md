@@ -2,6 +2,10 @@
 I am an aspiring developer from Poland ? Working on multiple frontend and backend project using React and Nodejs
  
  Ciagle staram sie rozawijac w technologiach backend i frontend.
+ Ponizej przedstawiam technologie ktore mialem okazje poznac w kolejnosci od tych z ktorymi spedzilem najwiecej czasu:
+ ASP . net / c# , angular, sqlms db 
+ oraz wszystkie spotkane/stosowane przsezemnie technologie:
+ entity framework, postman, ....
  
  Chce zaaprezentować swoje 2 repozytoria. 
  Pierwsze jest moim repozytorium planowanym do wdrozenia do uzytku, obslugujace rezerwowanie maszyn w parku maszynowym malej/sredniej firmy. 
