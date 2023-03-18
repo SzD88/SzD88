@@ -8,8 +8,10 @@ My favorite technologies in order of most used:
 <img align="left" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><img >
  <img align="left" alt="angular" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><img >
  
- <br>
+<br>
+
 I am also familiar with:
+
 <br>
 
 <img align="left" alt="angular" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /><img >
@@ -19,7 +21,8 @@ I am also familiar with:
 <img align="left" alt="angular" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><img >
 <img align="left" alt="angular" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /><img > 
 
- I wish to present two repositories.
+
+ I wish to present two repositories:
  
  <img align="left" alt="angular" src="https://img.shields.io/badge/-1.%20Production%20Scheduler-white?style=for-the-badge" /><img >
  
