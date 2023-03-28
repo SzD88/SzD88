@@ -28,7 +28,7 @@ I am also familiar with:
  
  The first solution is planned to be deployed for use. This solution supports device reservations in the machine park of a small and medium company. The system offers authorized accounts for users with different roles who can make reservations depending on their permissions.
  
- This is a solution that has not been implemented yet and shows how I imagine a well-planned and architecturally solved backend solution. There was always time to refactor the code and keep things in order. I am currently working on implementing proper automated tests for this application.
+ This solution has yet to be implemented and shows how I imagine a well-planned and architecturally solved backend solution. There was always time to refactor the code and keep things in order. I am currently working on implementing proper automated tests for this application.
  
  <img align="left" alt="angular" src="https://img.shields.io/badge/-2.%20Tasks%20Manager-white?style=for-the-badge" /><img >
  
