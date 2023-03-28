@@ -38,5 +38,7 @@ I am also familiar with:
 Gradually, the user interface was implemented in order to quickly start the application and its tests, to later build up its functionality. The application never had time to be refactored because it needed to prove its usefulness as soon as possible in order to keep it functioning.
 
 ## Contact with me
-<img align="left" alt="angular" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>szymon.dudek.88@gmail.com<img >
+<img align="left" alt="angular" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><img >
 <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+
+src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)[<img align="left" alt="medium" 
