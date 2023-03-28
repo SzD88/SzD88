@@ -11,7 +11,6 @@ My favorite technologies in order of most used:
 <br>
 
 I am also familiar with:
-
 <br>
 
 <img align="left" alt="angular" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /><img >
