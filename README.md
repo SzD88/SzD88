@@ -20,9 +20,10 @@ I am also familiar with:
 <img align="left" alt="angular" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /><img > 
 
 <br>
+
  I wish to present two repositories:
 
-
+ 
  <img align="left" alt="angular" src="https://img.shields.io/badge/-1.%20Production%20Scheduler-white?style=for-the-badge" /><img >
  
  The first solution is planned to be deployed for use. This solution supports device reservations in the machine park of a small and medium company. The system offers authorized accounts for users with different roles who can make reservations depending on their permissions.
