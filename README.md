@@ -11,9 +11,8 @@ My favorite technologies in order of most used:
 <br>
 
 I am also familiar with:
-<br>
 
-<img align="left" alt="angular" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /><img >
+  <img align="left" alt="angular" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /><img >
 <img align="bottom"  alt="angular" src="https://img.shields.io/badge/%20-SOLID-black?style=for-the-badge&logo=SL&logoColor=white" /><img >
 <img align="left" alt="angular" src="https://img.shields.io/badge/%20-entity%20framework-blueviolet?style=for-the-badge&logo=EF&logoColor=white" /><img >
 <img align="bottom"  alt="angular" src="https://img.shields.io/badge/%20-REST-black?style=for-the-badge&logo=SL&logoColor=white" /><img >
