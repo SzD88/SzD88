@@ -26,7 +26,7 @@ I am also familiar with:
  
  [<img align="left" alt="angular" src="https://img.shields.io/badge/-1.%20Production%20Scheduler-white?style=for-the-badge" /><img >](https://github.com/SzD88/ProductionScheduler)
  
- The first solution is planned to be deployed for use. This solution supports device reservations in the machine park of a small and medium company. The system offers authorized accounts for users with different roles who can make reservations depending on their permissions.
+ The first solution is planned to be deployed for use, it supports device reservations in the machine park of a small and medium company. The system offers authorized accounts for users with different roles who can make reservations depending on their permissions.
  
  This solution has yet to be implemented and shows how I imagine a well-planned and architecturally solved backend solution. The code was cleaned up a few times and I tried to keep it in order. I am currently working on implementing proper automated tests for this application.
  
