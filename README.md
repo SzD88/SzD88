@@ -29,8 +29,7 @@ I am also familiar with:
  
  This solution has yet to be implemented and shows how I imagine a well-planned and architecturally solved backend solution. The code was cleaned up a few times and I tried to keep it in order. I am currently working on implementing proper automated tests for this application.
  
- Backend repository: https://github.com/SzD88/TaskBoard
- Frontend repository: 
+ Backend repository: 
  
  <img align="left" alt="angular" src="https://img.shields.io/badge/-2.%20Tasks%20Manager-white?style=for-the-badge" /><img >
  
@@ -39,7 +38,9 @@ I am also familiar with:
  This application was introduced after recognizing the need for it and made on the basis of a previously owned repository.
 Gradually, the user interface was implemented in order to quickly start the application and its tests, to later build up its functionality. The application never had time to be refactored because it needed to prove its usefulness as soon as possible in order to keep it functioning.
 
-Backend repository: 
+Backend repository: https://github.com/SzD88/TaskBoard
+
+Frontend repository: 
 
 ## Contact with me
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:szymon.dudek.88@gmail.com)
