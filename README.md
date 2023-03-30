@@ -32,7 +32,7 @@ I am also familiar with:
  
  Backend repository: https://github.com/SzD88/ProductionScheduler
  
- <img align="left" alt="angular" src="https://img.shields.io/badge/-2.%20Tasks%20Manager-white?style=for-the-badge" /><img >
+ [<img align="left" alt="angular" src="https://img.shields.io/badge/-2.%20Tasks%20Manager-white?style=for-the-badge" /><img >](https://github.com/SzD88/TaskBoard)
  
  The second solution is alive living application, which I implemented for use in a small company. It is an application for organizing working time over several weeks with a convenient interface available to users. The app is calendar based and allows managing tasks for employers and showing important information.
  
