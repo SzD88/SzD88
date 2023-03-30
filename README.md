@@ -34,7 +34,7 @@ I am also familiar with:
  
  <img align="left" alt="angular" src="https://img.shields.io/badge/-2.%20Tasks%20Manager-white?style=for-the-badge" /><img >
  
- The second solution is a live living application, which I implemented for use in a small company. It is an application for organizing working time over several weeks with a convenient interface available to users. The app is calendar based and allows managing tasks for employers and showing important information.
+ The second solution is alive living application, which I implemented for use in a small company. It is an application for organizing working time over several weeks with a convenient interface available to users. The app is calendar based and allows managing tasks for employers and showing important information.
  
  This application was introduced after recognizing the need for it and made on the basis of a previously owned repository.
 Gradually, the user interface was implemented in order to quickly start the application and its tests, to later build up its functionality. The application never had time to be refactored because it needed to prove its usefulness as soon as possible in order to keep it functioning.
