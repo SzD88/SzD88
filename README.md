@@ -41,7 +41,7 @@ Gradually, the user interface was implemented in order to quickly start the appl
 
 Backend repository: https://github.com/SzD88/TaskBoard
 
-Frontend repository: 
+Frontend repository: https://github.com/SzD88/TaskBoardUI
 
 ## Contact with me
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:szymon.dudek.88@gmail.com)
