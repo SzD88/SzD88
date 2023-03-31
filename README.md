@@ -43,5 +43,7 @@ Backend repository: https://github.com/SzD88/TaskBoard
 
 Frontend repository: https://github.com/SzD88/TaskBoardUI
 
+YouTube presentation: https://www.youtube.com/watch?v=KuSqjtiy9IQ
+
 ## Contact with me
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:szymon.dudek.88@gmail.com)
