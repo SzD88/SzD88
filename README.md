@@ -41,8 +41,8 @@ Gradually, the user interface was implemented in order to quickly start the appl
 
 Backend repository: https://github.com/SzD88/TaskBoard
 
-Frontend repository: https://github.com/SzD88/TaskBoardUI
-
+Frontend repository: https://github.com/SzD88/TaskBoardUIv0.2  
+ 
 YouTube presentation: https://www.youtube.com/watch?v=KuSqjtiy9IQ
 
 ## Contact with me
